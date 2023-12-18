@@ -1,7 +1,7 @@
 import React from 'react'
 import './ImageGenerator.css' 
 import default_img from '../Assets/default-image.jpg'
-import { useRef, useState } from 'react 
+import { useRef, useState } from 'react'
 
 
 export const ImageGenerator = () => {
