@@ -1,4 +1,4 @@
-AI Image Maker: Easy and Fun with **DALL-E** and **ChatGPT**
+**AI Image Maker:** Easy and Fun with **DALL-E** and **ChatGPT**
 What This Is About:
 
 👋 Hey there! Welcome to the **AI Image Maker!**
@@ -24,4 +24,4 @@ Anyone and Everyone: If you're curious about how AI can turn words into pictures
 Quick Art Projects: Need a picture for a class project or just for fun? Try this out.
 Learning and Playing: Great way to see how AI works and have fun at the same time.
 
-**Remember: ** This is all about having fun and seeing what AI can do. It's made for you to experiment and enjoy!
+**Remember:** This is all about having fun and seeing what AI can do. It's made for you to experiment and enjoy!
