@@ -18,7 +18,7 @@ To get the project working with its full capabilities:
 
 **2.** Get Your Own API Key: You'll need to obtain your own API key from the respective service provider.
 
-**3.** Update the Project with Your API Key: Once you have your API key, you'll need to make a **".env"** file in the root directory. The .env_sample file gives shows the template of how you should insert your API Key.
+**3.** Update the Project with Your API Key: Once you have your API key, navigate to the **.env** file and replace INSERT_YOUR_API_KEY with your own API Key.
 
 
 **What You Can Do:**
