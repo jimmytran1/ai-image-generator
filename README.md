@@ -6,7 +6,7 @@ What This Is About:
 This is a cool project where you can turn words into pictures using AI. It's super easy to use and perfect if you're into tech, art, or just want to try something fun.
 
 **Important Note for Users:**
-**🔑 API Key Update Required:** Before you start having fun with this app, there's one small but crucial step. You need to change the API key in the image_generator.jsx file. Don't worry, it's easy! Just replace the existing key with your own (you can get this from OpenAI's website if you're using DALL-E or ChatGPT). This step is important to make sure the app works correctly for you.
+**🔑 API Key Update Required:** Before you start having fun with this app, there's one small but crucial step. You need to change the API key in the **ImageGenerator.jsx** file. Don't worry, it's easy! Just replace the existing key with your own (you can get this from OpenAI's website if you're using DALL-E or ChatGPT). This step is important to make sure the app works correctly for you.
 
 
 
