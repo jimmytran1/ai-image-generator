@@ -2,7 +2,7 @@ import React from 'react'
 import './ImageGenerator.css' 
 import default_img from '../Assets/default-image.jpg'
 import { useRef, useState } from 'react'
-
+const apiKey = process.env.REACT_APP_API_KEY
 
 export const ImageGenerator = () => {
 
@@ -22,7 +22,7 @@ export const ImageGenerator = () => {
         headers: {
           "Content-Type": "application/json",
           Authorization:
-          `Bearer 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`,
+          `Bearer ${apiKey}`,
           "User-Agent": "Chrome",
         },
         body:JSON.stringify({
