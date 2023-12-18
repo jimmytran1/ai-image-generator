@@ -11,6 +11,7 @@ This is a cool project where you can turn words into pictures using AI. It's sup
 **Notice for Github Pages Users:** If you're checking out this project on GitHub Pages, you might notice that it only displays a default image and generate any new images.
 
 **How can you fully experience the project?**
+
 To get the project working with its full capabilities:
 
 **1.** Download the Project: First, clone or download the project to your local machine.
