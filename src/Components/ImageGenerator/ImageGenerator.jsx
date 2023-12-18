@@ -23,7 +23,7 @@ export const ImageGenerator = () => {
           "Content-Type": "application/json",
           Authorization:
           // CHANGE API KEY HERE
-          "Bearer API_KEY",
+          "Bearer INSERT_YOUR_API_KEY_HERE",
           "User-Agent": "Chrome",
         },
         body:JSON.stringify({
