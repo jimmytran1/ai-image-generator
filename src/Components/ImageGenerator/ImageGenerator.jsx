@@ -3,7 +3,7 @@ import './ImageGenerator.css'
 import default_img from '../Assets/default-image.jpg'
 import { useRef, useState } from 'react'
 const apiKey = process.env.REACT_APP_API_KEY
-console.log(apiKey)
+
 
 export const ImageGenerator = () => {
 
