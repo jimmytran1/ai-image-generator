@@ -15,7 +15,7 @@ To get the project working with its full capabilities:
 
 **1.** Download the Project: First, clone or download the project to your local machine.
 **2.** Get Your Own API Key: You'll need to obtain your own API key from the respective service provider.
-**3.** Update the Project with Your API Key: Once you have your API key, you'll need to insert it into the **"ImageGenerator.jsx"** file.
+**3.** Update the Project with Your API Key: Once you have your API key, you'll need to make a **".env"** file in the root directory. The .env_sample file gives shows the template of how you should insert your API Key.
 
 
 **What You Can Do:**
