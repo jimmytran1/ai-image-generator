@@ -22,7 +22,8 @@ export const ImageGenerator = () => {
         headers: {
           "Content-Type": "application/json",
           Authorization:
-          "Bearer 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",
+          // CHANGE API KEY HERE
+          "Bearer API_KEY",
           "User-Agent": "Chrome",
         },
         body:JSON.stringify({
